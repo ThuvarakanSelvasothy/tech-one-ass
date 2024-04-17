@@ -1,0 +1,7 @@
+D:\My Projects\ASP.NET Projects\tech-one-ass\server\bin\Publish\server.exe
+D:\My Projects\ASP.NET Projects\tech-one-ass\server\bin\Publish\appsettings.Development.json
+D:\My Projects\ASP.NET Projects\tech-one-ass\server\bin\Publish\appsettings.json
+D:\My Projects\ASP.NET Projects\tech-one-ass\server\bin\Publish\server.dll
+D:\My Projects\ASP.NET Projects\tech-one-ass\server\bin\Publish\server.deps.json
+D:\My Projects\ASP.NET Projects\tech-one-ass\server\bin\Publish\server.runtimeconfig.json
+D:\My Projects\ASP.NET Projects\tech-one-ass\server\bin\Publish\server.pdb
